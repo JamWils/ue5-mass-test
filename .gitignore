@@ -1,0 +1,139 @@
+# Unreal Engine specific
+*.uproject
+*.sln
+*.suo
+*.xcworkspace
+*.xcuserdatad
+*.ini
+*.log
+Intermediate/
+Saved/
+DerivedDataCache/
+Binary/
+DerivedDataCache/
+*.db
+*.swarm
+*.sdf
+*.sln
+*.suo
+*.xcworkspace/
+*.xcuserdatad/
+*.tlog/
+*.xccheckout
+*.xcscmblueprint
+
+# Compiled binaries
+Binaries/
+DerivedDataCache/
+
+# Generated files
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sdf
+*.swarm
+*.db
+
+# Auto-generated Visual Studio files
+.vscode/
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcproj
+*.sln.docstates
+
+# macOS
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Android
+Intermediate/Android/
+Intermediate/Android_ASTC/
+Intermediate/Android_ETC1/
+Intermediate/Android_ETC2/
+Intermediate/Android_DXT/
+Intermediate/Android_ATC/
+Intermediate/Android_XETC/
+Intermediate/Android_ETC/
+Intermediate/Android_AASTC/
+Intermediate/Android_XASTC/
+Intermediate/Android_ASTC/
+Intermediate/Android_Multi/
+
+# iOS
+Intermediate/iOS/
+Intermediate/iOS_ETC1/
+Intermediate/iOS_ETC2/
+Intermediate/iOS_PVRTC/
+Intermediate/iOS/
+Intermediate/iOS_Metal/
+Intermediate/iOS_GL/
+Intermediate/iOS_ASTC/
+
+# Linux
+Intermediate/Linux/
+Intermediate/Linux_ETC1/
+Intermediate/Linux_ETC2/
+Intermediate/Linux/
+Intermediate/Linux_Metal/
+Intermediate/Linux_GL/
+Intermediate/Linux_ASTC/
+
+# Miscellaneous
+.Dependencies/
+Binaries/
+Dumps/
+DerivedDataCache/
+Builds/
+Captures/
+Saved/AutoScreenshot.png
+Saved/Crashes/
+Saved/MovieRenderQueue/
+Saved/Profiling/
+Saved/Screenshots/
+Saved/UnrealBuildTool/
+Saved/Logs/
+
+# User-specific files
+Config/DefaultEditorUserSettings.ini
+Config/DefaultEngine.ini
+Config/DefaultGame.ini
+Saved/Config/Windows/
+Saved/Config/Mac/
+Saved/Config/Linux/
+Saved/Config/Android/
+
+# Ignore Visual Studio Code specific files
+.vscode/
+.vscodeignore
+
+# Ignore macOS metadata files
+._*
+.Spotlight-V100
+.DS_Store
+
+# Ignore Windows folder configuration files
+Desktop.ini
+Thumbs.db
+
+# Ignore Unreal Engine intermediate and derived files
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+
+# Ignore generated documentation files
+Documentation/
